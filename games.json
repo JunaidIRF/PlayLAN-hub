@@ -18,6 +18,7 @@
     {
       "appid": 100001,
       "name": "OpenSpades",
+      "tile_url": "https://github.com/JunaidIRF/PlayLAN-hub/blob/main/assets/library/100001/tile.png?raw=true",
       "banner_url": "https://openspadesmedia.yvt.jp/brand/OpenSpadesBanner.jpg"
     }
   ]
