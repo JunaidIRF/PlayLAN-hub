@@ -1,0 +1,24 @@
+{
+  "games": [
+    {
+      "appid": 730,
+      "name": "Counter-Strike 2",
+      "steam_appid": 730
+    },
+    {
+      "appid": 440,
+      "name": "Team Fortress 2",
+      "steam_appid": 440
+    },
+    {
+      "appid": 359550,
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "steam_appid": 359550
+    },
+    {
+      "appid": 100001,
+      "name": "OpenSpades",
+      "banner_url": "https://openspadesmedia.yvt.jp/brand/OpenSpadesBanner.jpg"
+    }
+  ]
+}
