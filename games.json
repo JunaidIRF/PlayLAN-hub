@@ -28,6 +28,86 @@
       "tile_url": "https://i.ibb.co/8L3BnvRT/tile.png",
       "banner_url": "https://openspadesmedia.yvt.jp/brand/OpenSpadesBanner.jpg",
       "download_link": "https://github.com/yvt/openspades/releases/latest"
+    },
+    {
+      "appid": 550,
+      "name": "Left 4 Dead 2",
+      "steam_appid": 550
+    },
+    {
+      "appid": 4000,
+      "name": "Garry's Mod",
+      "steam_appid": 4000
+    },
+    {
+      "appid": 105600,
+      "name": "Terraria",
+      "steam_appid": 105600
+    },
+    {
+      "appid": 49520,
+      "name": "Borderlands 2",
+      "steam_appid": 49520
+    },
+    {
+      "appid": 322330,
+      "name": "Don't Starve Together",
+      "steam_appid": 322330
+    },
+    {
+      "appid": 289070,
+      "name": "Sid Meier's Civilization VI",
+      "steam_appid": 289070
+    },
+    {
+      "appid": 620,
+      "name": "Portal 2",
+      "steam_appid": 620
+    },
+    {
+      "appid": 218620,
+      "name": "PAYDAY 2",
+      "steam_appid": 218620
+    },
+    {
+      "appid": 892970,
+      "name": "Valheim",
+      "steam_appid": 892970
+    },
+    {
+      "appid": 108600,
+      "name": "Project Zomboid",
+      "steam_appid": 108600
+    },
+    {
+      "appid": 413150,
+      "name": "Stardew Valley",
+      "steam_appid": 413150
+    },
+    {
+      "appid": 225840,
+      "name": "Sven Co-op",
+      "steam_appid": 225840
+    },
+    {
+      "appid": 813780,
+      "name": "Age of Empires II: Definitive Edition",
+      "steam_appid": 813780
+    },
+    {
+      "appid": 219990,
+      "name": "Grim Dawn",
+      "steam_appid": 219990
+    },
+    {
+      "appid": 70,
+      "name": "Half-Life",
+      "steam_appid": 70
+    },
+    {
+      "appid": 7940,
+      "name": "Call of Duty® 4: Modern Warfare® (2007)",
+      "steam_appid": 7940
     }
   ]
 }
